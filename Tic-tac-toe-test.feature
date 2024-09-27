@@ -112,7 +112,10 @@ Scenario: Three markings in a row results in a win
 
 	
 
-	Rule - Vertical rows can give a win
+
+//Not finished scenarios below
+
+Rule - Vertical rows can give a win
 		Test that all three vertical rows can result in a win
 	Rule - Horizonal rows can give a win
 	Rule - Diagonal rows can give a win
