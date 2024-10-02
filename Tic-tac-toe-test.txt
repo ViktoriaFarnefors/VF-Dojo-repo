@@ -8,11 +8,11 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 
 Rule - Player X starts the game
 
-Scenario: Player X starts the first sturn
+Scenario: Player X starts the first turn
 	Given that the game has not ended
 	Given that no marker has been placed
 	When the game starts
-	Then Player X  starts the turns
+	Then Player X starts the turns
 
 Rule - Players take turn placing markers
 
